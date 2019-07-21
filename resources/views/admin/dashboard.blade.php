@@ -1,4 +1,4 @@
-@extand('layout.master')
+@extends('layouts.master')
 
 @section('title')
     Cyn Dashboard
@@ -36,8 +36,7 @@
               </div>
             </div>
           </div>
-         
-
+</div>
 
 @endsection
 
