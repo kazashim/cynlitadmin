@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('layouts/', function () {
+Route::get('/', function () {
     return view('master');
 });
 
