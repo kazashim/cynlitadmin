@@ -52,4 +52,4 @@ AdaptCMS is open-sourced software licensed under [3-Clause BSD](https://opensour
 |Uses [MySQL](https://github.com/mysql) Database|
 |Uses [Artisan](http://laravel.com/docs/5.1/artisan) to manage database migration, schema creations, and create/publish page controller templates|
 |Dependencies are managed with [COMPOSER](https://getcomposer.org/)|
-|Laravel Scaffolding **User** and **Administrator Authentication**.|
+|Laravel Scaffoldikung **User** and **Administrator Authentication**.|
