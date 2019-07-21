@@ -214,7 +214,7 @@
   <!-- Now Ui Dashboard DEMO methods, don't include it in your project! -->
   <script src="../assets/demo/demo.js"></script>
 
-@yield('script')
+@yield('scripts')
 
 </body>
 </html>
